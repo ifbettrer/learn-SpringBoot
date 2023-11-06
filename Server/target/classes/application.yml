@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Server
+
+
+  datasource:
+    url: jdbc:mysql://localhost/test_poi
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
